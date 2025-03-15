@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Zad2_4 {
 
     static Scanner scanner = new Scanner(System.in);
     boolean czyPrawda = true;
@@ -28,6 +28,8 @@ public class Main {
     public static void main(String[] args) {
         float [] liczby;
         boolean czyPrawda = true;
+
+
         while (czyPrawda) {
             System.out.print("Wybierz program:\n1.Dodawanie\n2.Odejmowanie\n3.Mnożenie\n4.Dzielenie\n5.Zakończ program\n");
             int userChoice = scanner.nextInt();
