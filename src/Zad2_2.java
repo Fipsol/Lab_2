@@ -8,5 +8,6 @@ public class Zad2_2 {
         String imie;
         imie = scanner.next();
         System.out.println("Cześć " + imie);
+
     }
 }
