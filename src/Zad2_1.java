@@ -1,4 +1,3 @@
-package Zad2_1;
 public class Zad2_1 {
     public static void main(String[] args) {
 

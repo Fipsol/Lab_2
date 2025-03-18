@@ -1,5 +1,3 @@
-package Zad2_6;
-
 import java.util.Scanner;
 
 public class Zad2_6 {
